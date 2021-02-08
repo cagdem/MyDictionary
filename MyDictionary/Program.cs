@@ -10,6 +10,7 @@ namespace MyDictionary
             ogrenciler.Add(1, "Çağlar");
             ogrenciler.Add(5, "Bulut");
 
+
         }
     }
 }
