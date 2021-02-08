@@ -9,6 +9,7 @@ namespace MyDictionary
             MyDictionary<int, string> ogrenciler = new MyDictionary<int, string>();
             ogrenciler.Add(1, "Çağlar");
             ogrenciler.Add(5, "Bulut");
+
         }
     }
 }
